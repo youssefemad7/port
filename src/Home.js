@@ -37,7 +37,7 @@ function Home() {
           <Row>
             <Col md={7} sm={12} className="bannartext wow slideInLeft" data-wow-duration="2s" data-wow-delay="0.1s">
               <p>WEB DESIGN <span>//</span> WEBFLOW DEVELOPMENT <span>//</span> SEO</p>
-              <h1>Youssef Emad Portfolio .</h1>
+              <h1>Youssef Portfolio .</h1>
               <h5>We build marketing websites that help you sell on autopilot.</h5>
               <HashLink to="/#contact"><button>Let's talk</button></HashLink>
             </Col>
@@ -51,7 +51,7 @@ function Home() {
                 <img src="images/6232406724bd9b36622aed48_image 3 (Traced).svg" alt="" />
               </div>
               <div className="imgbox wimg">
-                <img src="images/623240674411e07510215b6f_image 2 (Traced).svg" alt="" />
+                  <img src="images/623240674411e07510215b6f_image 2 (Traced).svg" alt="" />
               </div>
             </Col>
           </Row>
